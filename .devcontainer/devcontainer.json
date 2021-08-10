@@ -3,7 +3,7 @@
   // Sets the run context to one level up instead of the .devcontainer folder.
   "context": "..",
   // Update the 'dockerFile' property if you aren't using the standard 'Dockerfile' filename.
-  "dockerFile": "..\\Dockerfile",
+  "dockerFile": "../Dockerfile",
   // Uncomment the next line to have VS Code connect as an existing non-root user in the container.
   // On Linux, by default, the container user's UID/GID will be updated to match your local user. See
   // https://aka.ms/vscode-remote/containers/non-root for details on adding a non-root user if none exist.
